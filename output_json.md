@@ -1,0 +1,42 @@
+## Json file
+```
+{
+  "contract_type": "service agreement",
+  "parties": [
+    {
+      "role": "Fund",
+      "name": "Integrity Short Term Government Fund"
+    },
+    {
+      "role": "Distributor",
+      "name": "Integrity Funds Distributor, LLC"
+    }
+  ],
+  "effective_date": "January 18, 2020",
+  "termination_date": "January 18, 2022",
+  "governing_law": "Kansas",
+  "renewal_terms": "Automatically for successive annual periods ending on January 18th of each year, provided such continuance is specifically approved annually.",
+  "clauses": [
+    {
+      "name": "Services as Underwriter",
+      "present": true,
+      "text": "Integrity will act as principal underwriter for the distribution of the Shares covered by the registration statement, prospectus, and statement of additional information then in effect of the Fund."
+    },
+    {
+      "name": "Indemnification",
+      "present": true,
+      "text": "The Fund agrees to indemnify, defend, and hold Integrity, its several officers and governors, and any person who controls Integrity free and harmless from and against any and all claims, demands, liabilities, and expenses."
+    },
+    {
+      "name": "Duties of the Fund",
+      "present": true,
+      "text": "The Fund agrees at its own expense to execute any and all documents, to furnish any and all information, and to take any other actions that may be reasonably necessary in connection with the qualification of the Shares for sale."
+    }
+  ],
+  "custom_fields": {
+    "Distribution Expenses": "Integrity will bear all expenses in connection with the performance of its services and the incurring of distribution expenses under this Agreement.",
+    "Reports": "Integrity shall prepare and deliver reports to the Treasurer of the Fund and to the Investment Adviser on a regular, at least quarterly, basis."
+  },
+  "payment_terms": "Integrity shall receive the excess, if any, of the sales price over the net asset value of Shares sold by Integrity, as underwriter."
+}
+```
