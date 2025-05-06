@@ -1,0 +1,31 @@
+{
+  "contract_type": "service agreement",
+  "parties": [
+    {
+      "role": "Fund",
+      "name": "Integrity Short Term Government Fund"
+    },
+    {
+      "role": "Underwriter",
+      "name": "Integrity Funds Distributor, LLC"
+    }
+  ],
+  "effective_date": "January 18, 2020",
+  "termination_date": "January 18, 2022",
+  "governing_law": "State of Kansas",
+  "renewal_terms": "Automatically for successive annual periods ending on January 18th of each year, provided such continuance is specifically approved annually.",
+  "clauses": [
+    {
+      "name": "Indemnification",
+      "present": true,
+      "text": "Section 4.1 and 4.2 detail the indemnification obligations of both the Fund and Integrity."
+    }
+  ],
+  "custom_fields": {
+    "services_as_underwriter": "Integrity will act as principal underwriter for the distribution of the Shares covered by the registration statement.",
+    "duties_of_the_fund": "The Fund agrees to execute documents, furnish information, and take actions necessary for the qualification of the Shares for sale.",
+    "representations_and_warranties": "The Fund represents that all registration statements, prospectuses, and statements of additional information filed by the Fund with the SEC are prepared in conformity with the requirements."
+  },
+  "payment_terms": "Integrity shall receive the excess of the sales price over the net asset value of Shares sold, and any distribution and/or service fees applicable to the Shares as authorized by the Shareholder Services Plan.",
+  "indemnification": true
+}

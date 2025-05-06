@@ -1,0 +1,29 @@
+{
+  "contract_type": "generic",
+  "parties": [
+    {
+      "role": "Franchisor",
+      "name": "Kiosk Concepts, Inc."
+    },
+    {
+      "role": "Master Franchisee",
+      "name": "N/A"
+    },
+    {
+      "role": "Guarantors",
+      "name": "Not specified"
+    }
+  ],
+  "governing_law": "State in which Franchisor has its principal place of business",
+  "clauses": [
+    {
+      "name": "Indemnification",
+      "present": true,
+      "text": "Guarantors shall indemnify and save harmless Franchisor and its affiliates against and from all losses, damages, costs, and expenses..."
+    }
+  ],
+  "custom_fields": {
+    "Master Franchise Agreement Date": "Not specified",
+    "Notice to Guarantors": "Names and addresses not specified"
+  }
+}
